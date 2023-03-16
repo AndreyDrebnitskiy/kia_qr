@@ -1,8 +1,0 @@
-.alexsab
-*.php
-sftp-config.json
-/uploads/*
-inc/
-.well-known/acme-challenge/*
-/storage/
-.htaccess
